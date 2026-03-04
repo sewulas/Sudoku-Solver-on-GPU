@@ -145,7 +145,7 @@ Kernel timings are collected for:
 
 ## Author
 
-Filip
+Filip Sewastianowicz
 
 Student of Computer Science
 Warsaw University of Technology
